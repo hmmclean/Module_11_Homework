@@ -2,7 +2,7 @@
 Module 11 - Data Collection
 
 # Overview
-Used web scraping to extract elements from HTML and then analyzed those elements for additional insights. 
+Web scraping was used to extract elements from HTML and then analyze those elements for additional insights. 
 
 # Navigation
 * Starter Code Folder
